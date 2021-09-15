@@ -2,5 +2,6 @@
     * Реализовать запись и обновление стейта через action
     * 1. Counter +/-
     * 2. Список дел, реализовать модель models/TodoModel (Добавление/Удаление) Input и кнопка добавления
-    ![image](https://user-images.githubusercontent.com/85501859/133376915-32f735a6-9236-4555-a5b2-37a454745502.png)
+
+![image](https://user-images.githubusercontent.com/85501859/133376915-32f735a6-9236-4555-a5b2-37a454745502.png)
 
