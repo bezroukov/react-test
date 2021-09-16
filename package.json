@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "mobx": "^5.15.7",
-    "mobx-react": "^6.3.1",
+    "mobx-react": "^5.4.3",
     "styled-components": "^5.3.1"
   }
 }
