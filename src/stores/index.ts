@@ -1,1 +1,5 @@
-export {TodoStoreContext, CreateContext, CounterStoreContext} from "./RootStore"
+export {
+  TodoStoreContext,
+  CreateContext,
+  CounterStoreContext,
+} from "./RootStore";

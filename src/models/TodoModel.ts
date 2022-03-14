@@ -1,3 +1,1 @@
-export interface TodoModel {
-
-}
+export interface TodoModel {}
