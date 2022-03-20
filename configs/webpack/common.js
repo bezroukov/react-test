@@ -1,10 +1,12 @@
 // shared config (dev and prod)
 const { resolve } = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const TsconfigPathsPlugin = require("tsconfig-paths-webpack-plugin");
 
 module.exports = {
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx"],
+    plugins: [new TsconfigPathsPlugin()],
   },
   context: resolve(__dirname, "../../src"),
   module: {

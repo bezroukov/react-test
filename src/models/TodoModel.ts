@@ -1,1 +1,4 @@
-export interface TodoModel {}
+export interface TodoModel {
+  task: string;
+  status: "pending" | "ready";
+}
